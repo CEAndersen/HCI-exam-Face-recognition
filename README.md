@@ -6,5 +6,5 @@ For the program to work, you will need to have a folder on your computer with on
 
 (I have not added the pictures in this reposotiory as they are not mine to share.)
 
-The code was written with help from the OpenCV guide: https://realpython.com/face-detection-in-python-using-a-webcam/
+The code was written with help from the OpenCV guide: https://pypi.org/project/face-recognition/
 
